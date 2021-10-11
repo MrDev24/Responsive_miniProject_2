@@ -15,7 +15,7 @@ body{
   .content:hover{
     transition-duration: 1s;
     transition-delay: 700ms;
-    opacity: 10%;
+    opacity: 0;
   }
 
   .galleryPic2{
