@@ -1,0 +1,21 @@
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+  padding: 0;
+}
+
+
+
+.img-fluid.w-100.d-block {
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.h1, h1 {
+  position: absolute;
+  overflow-y: visible;
+}
+
+.col {
+  padding: 0;
+}
+
+
